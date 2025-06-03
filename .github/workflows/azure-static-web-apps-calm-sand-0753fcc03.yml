@@ -20,5 +20,5 @@ jobs:
           action: "upload"
           app_location: "/"
           api_location: ""
-          output_location: "/"
+          output_location: ""  # <-- update this from "." to empty string
 
